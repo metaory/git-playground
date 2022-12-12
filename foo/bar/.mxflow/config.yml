@@ -1,0 +1,14 @@
+version: 0.48.0
+sleep: 1000
+workflows:
+  foobar:
+    description: example placeholder
+    pattern: "{branchType}/{taskId}-{description}"
+    steps:
+      - echo hello word
+      - echo goodbye cruel world
+      - confirm echo goodbye
+      - echo list logs
+      - log-bugtracker:
+          bugtracker: clickup
+          tenant: 123123123
