@@ -17,7 +17,7 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: ancestor-check
-        uses: metaory/ancestor-check-action@bf4a1f5
+        uses: metaory/ancestor-check-action@bf4a1f5afd09cb95c200437c7c21f0e435fe6b99
         with:
           milliseconds: 1000
           branch: dev
