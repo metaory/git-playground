@@ -16,4 +16,9 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: foobar
+        uses: metaory/ancestor-check-action@v1
+        with:
+          milliseconds: 1000
+          branch: dev
 
