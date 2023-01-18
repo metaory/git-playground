@@ -1,0 +1,39 @@
+/* TODO: mxcHeader() */
+
+:root {
+  --mxc-sbg: {SBG};
+  --mxc-wbg: {WBG};
+  --mxc-ebg: {EBG};
+
+  --mxc-cy1: {CY1};
+  --mxc-cy2: {CY2};
+  --mxc-cy3: {CY3};
+  --mxc-cy4: {CY4};
+  --mxc-cy5: {CY5};
+  --mxc-cy6: {CY6};
+
+  --mxc-cx1: {CX1};
+  --mxc-cx2: {CX2};
+  --mxc-cx3: {CX3};
+  --mxc-cx4: {CX4};
+  --mxc-cx5: {CX5};
+  --mxc-cx6: {CX6};
+
+  --mxc-c00: {C00};
+  --mxc-c01: {C01};
+  --mxc-c02: {C02};
+  --mxc-c03: {C03};
+  --mxc-c04: {C04};
+  --mxc-c05: {C05};
+  --mxc-c06: {C06};
+  --mxc-c07: {C07};
+  --mxc-c08: {C08};
+  --mxc-c09: {C09};
+  --mxc-c10: {C10};
+  --mxc-c11: {C11};
+  --mxc-c12: {C12};
+  --mxc-c13: {C13};
+  --mxc-c14: {C14};
+  --mxc-c15: {C15};
+}
+
