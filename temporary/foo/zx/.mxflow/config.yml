@@ -1,0 +1,159 @@
+version: 0.62.19-6
+sleep: 1000
+exit_on_error: false
+workflows:
+  flight:
+    description: flight example workflow
+    args:
+      - name: taskId
+        type: string
+        export: taskId
+      - name: description
+        type: string
+        export: description
+      - name: MXF_BUG_TRACKER_NAME
+        type: env
+        default: jira
+        export: bugTrackerName
+      - name: MXF_BUG_TRACKER_TENANT
+        type: env
+        default: metaory
+        export: bugTrackerTenant
+    steps:
+      - git fetch origin
+      - git checkout master
+      - git merge origin/master
+      - checkout-branch:
+          base: master
+      - git checkout -b flight/{description}
+      - git status
+      - confirm git push --set-upstream origin flight/{description}
+      - list-logs:
+          limit: 100
+      - log-bugtracker:
+          bugtracker: "{bugTrackerName}"
+          tenant: "{bugTrackerTenant}"
+  feature:
+    description: feature example workflow
+    args:
+      - name: taskId
+        type: string
+        export: taskId
+      - name: description
+        type: string
+        export: description
+      - name: MXF_BUG_TRACKER_NAME
+        type: env
+        default: jira
+        export: bugTrackerName
+      - name: MXF_BUG_TRACKER_TENANT
+        type: env
+        default: metaory
+        export: bugTrackerTenant
+    steps:
+      - git fetch origin
+      - git checkout master
+      - git merge origin/master
+      - checkout-branch:
+          base: flight
+      - git checkout -b feature/{taskId}-{description}
+      - git status
+      - confirm git push --set-upstream origin feature/{taskId}-{description}
+      - list-logs:
+          limit: 100
+      - log-bugtracker:
+          bugtracker: "{bugTrackerName}"
+          tenant: "{bugTrackerTenant}"
+  bugfix:
+    description: bugfix example workflow
+    args:
+      - name: taskId
+        type: string
+        export: taskId
+      - name: description
+        type: string
+        export: description
+      - name: MXF_BUG_TRACKER_NAME
+        type: env
+        default: jira
+        export: bugTrackerName
+      - name: MXF_BUG_TRACKER_TENANT
+        type: env
+        default: metaory
+        export: bugTrackerTenant
+    steps:
+      - git fetch origin
+      - git checkout master
+      - git merge origin/master
+      - checkout-branch:
+          base: flight
+      - git checkout -b bugfix/{taskId}-{description}
+      - git status
+      - confirm git push --set-upstream origin bugfix/{taskId}-{description}
+      - list-logs:
+          limit: 100
+      - log-bugtracker:
+          bugtracker: "{bugTrackerName}"
+          tenant: "{bugTrackerTenant}"
+  other:
+    description: other example workflow
+    args:
+      - name: taskId
+        type: string
+        export: taskId
+      - name: description
+        type: string
+        export: description
+      - name: MXF_BUG_TRACKER_NAME
+        type: env
+        default: jira
+        export: bugTrackerName
+      - name: MXF_BUG_TRACKER_TENANT
+        type: env
+        default: metaory
+        export: bugTrackerTenant
+    steps:
+      - git fetch origin
+      - git checkout master
+      - git merge origin/master
+      - checkout-branch:
+          base: flight
+      - git checkout -b other/{taskId}-{description}
+      - git status
+      - confirm git push --set-upstream origin other/{taskId}-{description}
+      - list-logs:
+          limit: 100
+      - log-bugtracker:
+          bugtracker: "{bugTrackerName}"
+          tenant: "{bugTrackerTenant}"
+  hotfix:
+    description: hotfix example workflow
+    args:
+      - name: taskId
+        type: string
+        export: taskId
+      - name: description
+        type: string
+        export: description
+      - name: MXF_BUG_TRACKER_NAME
+        type: env
+        default: jira
+        export: bugTrackerName
+      - name: MXF_BUG_TRACKER_TENANT
+        type: env
+        default: metaory
+        export: bugTrackerTenant
+    steps:
+      - git fetch origin
+      - git checkout master
+      - git merge origin/master
+      - checkout-branch:
+          base: master
+      - git checkout -b hotfix/{taskId}-{description}
+      - git status
+      - confirm git push --set-upstream origin hotfix/{taskId}-{description}
+      - list-logs:
+          limit: 100
+      - log-bugtracker:
+          bugtracker: "{bugTrackerName}"
+          tenant: "{bugTrackerTenant}"
