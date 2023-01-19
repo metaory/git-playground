@@ -11,6 +11,9 @@
 🔆 buildkite:
   - '**/.buildkite/**'
 
+🚀 lib:
+  - lib/**
+  
 🚀 web-app:
   - web/app/**
 🦋 web-webchat:
