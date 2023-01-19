@@ -1,12 +1,10 @@
 name: Label issue and pull requests
 
 on:
-  pull_request:
-    types: opened
+- pull_request_target
     
 permissions:
   checks: write
-  contents: read
   pull-requests: write
   
 jobs:
