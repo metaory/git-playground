@@ -1,0 +1,96 @@
+🍁 lambda:
+  - service/lambda/**
+🧩 service:
+  - any: ['service/**/*']
+    all: ['!service/lambda/**']
+
+🚧 infra:
+  - infra/**
+  - '**/template.yaml'
+  - '**/template.yml'
+🔆 buildkite:
+  - '**/.buildkite/**'
+
+🚀 web-app:
+  - web/app/**
+🦋 web-webchat:
+  - web/webchat/**
+🍀 web-widget:
+  - web/widget/**
+🐞 mobile:
+  - mobile/**
+  - mobile_v2/**
+
+💦 app-server:
+  - service/app-server/**
+
+📈 analytics:
+  - service/analytics/**
+🤖 api-gateway-session-auth:
+  - service/lambda/api-gateway-session-auth/**
+🔒 auth:
+  - service/auth/**
+💰 billing:
+  - service/billing/**
+  - service/lambda/billing/**'
+💬 chat-activity:
+  - service/chat-activity/**
+  - service/lambda/chat-activity/**
+⏰ cloudwatch-metric-generator:
+  - service/lambda/cloudwatch-metric-generator/**
+🪪 contact:
+  - service/contact/**
+  - service/lambda/contact/**
+🐦 contact-auto-assignment:
+  - service/lambda/contact-auto-assignment/**
+🐸 contact-interaction:
+  - service/lambda/contact-interaction/**
+🦀 conversation:
+  - service/conversation/**
+  - service/lambda/conversation/**
+🗃 data-export:
+  - service/data-export/**
+  - service/lambda/data-export/**
+🌶 developer-api:
+  - service/developer-api/**
+  - service/lambda/developer-api/**
+🖼 image-handler:
+  - service/lambda/image-handler/**
+🐙 integration:
+  - service/integration/**
+  - service/lambda/integration/**
+🍄 integration-pusher:
+  - service/integration-pusher/**
+🥕 notification:
+  - service/lambda/notification/**
+🍗 rds-to-elasticsearch-contacts-streamer:
+  - service/lambda/rds-to-elasticsearch-contacts-streamer/**
+🍔 report-segment:
+  - service/lambda/report-segment/**
+🍕 laravel-echo:
+  - service/laravel-echo/**
+📣 messaging:
+  - service/messaging/**
+👼 save-picture:
+  - service/lambda/save-picture/**
+🍟 script-generator:
+  - service/lambda/script-generator/**
+💌 sendgrid-email:
+  - service/lambda/sendgrid-email/**
+👟 service-worker-server:
+  - service/lambda/service-worker-server/**
+🍓 slack-delivery-pipeline:
+  - service/lambda/slack-delivery-pipeline/**
+🐛 s3-virus-scanner:
+  - service/s3-virus-scanner/**
+🍒 task-scheduler:
+  - service/lambda/task-scheduler/**
+🛹 whatsapp-business-account:
+  - service/lambda/whatsapp-business-account/**
+🍬 webchat:
+  - service/webchat/**
+🍙 workflows:
+  - service/workflows/**
+  - service/lambda/workflows/**
+🚑 workflows-alarm:
+  - service/lambda/workflows-alarm/**
