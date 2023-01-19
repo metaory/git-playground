@@ -16,11 +16,11 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - name: ancestor-check
-        uses: metaory/ancestor-check-action@dev
-        env: 
-          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
-        with:
-          milliseconds: 1000
-          branch: dev
+#       - name: ancestor-check
+#         uses: metaory/ancestor-check-action@dev
+#         env: 
+#           SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
+#         with:
+#           milliseconds: 1000
+#           branch: dev
 
