@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: metaory/github-profile-pinned-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         with:
           username: metaory
           email: metaory@gmail.com
