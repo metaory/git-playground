@@ -15,7 +15,6 @@ git playground
 | ----- | ----------- | ---------- | -------- | ------ |
 | [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | this month |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 3 | JavaScript | last month |
-| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | this month |
 
 # CHALLENGE
 
@@ -55,6 +54,7 @@ git playground
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
+| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | this month |
 | [ancestor-check-action](https://github.com/metaory/ancestor-check-action) | checks if PR have any commits from the target branch | 0 | JavaScript | this month |
 
 # NPM-PACKAGE
