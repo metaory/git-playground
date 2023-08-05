@@ -1,4 +1,5 @@
 name: Update README.md with repos categorized by topic
+run-name: readme-topics
 on:
   schedule:
     - cron: "0 0 * * 0"
