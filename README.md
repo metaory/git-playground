@@ -9,14 +9,13 @@ git playground
 | ----- | ----------- | ---------- | -------- | ------ |
 | proxy-api-transformer | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 2023-08-04T18:06:36Z |
 
-
 # AUTOMATION
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
 | jsonresume-theme-meta | yet another JSON Resume theme with live reload and docker | 7 | CSS | 2023-08-04T18:32:39Z |
 | mxflow-cli | :zap: A Beautiful, Friendly, General purpose CLI task runner | 3 | JavaScript | 2023-07-07T13:30:10Z |
-
+| github-profile-pinned-action | Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | 2023-08-05T00:11:28Z |
 
 # CHALLENGE
 
@@ -35,7 +34,6 @@ git playground
 | snake-cli-poc | cli snake grid challenge | 0 | JavaScript | 2023-08-04T18:19:02Z |
 | test-dupl | CSV duplicate coding challenge | 0 | JavaScript | 2023-08-04T18:15:52Z |
 
-
 # CLI
 
 | Name  | Description | Stargazers | Language | Update |
@@ -53,14 +51,11 @@ git playground
 | meta-aws-bastion-ssh | AWS Bastion ssh cli | 0 | JavaScript | 2023-08-04T18:05:36Z |
 | meta-mount | linux mounter | 0 | JavaScript | 2023-08-04T18:05:49Z |
 
-
 # GITHUB-ACTIONS
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
 | ancestor-check-action | checks if PR have any commits from the target branch | 0 | JavaScript | 2023-08-04T18:02:07Z |
-| github-profile-pinned-action | Action to generate GitHub profile readme repos pin based on Topics | 0 | JavaScript | 2023-08-04T18:04:00Z |
-
 
 # NPM-PACKAGE
 
@@ -68,7 +63,6 @@ git playground
 | ----- | ----------- | ---------- | -------- | ------ |
 | simple-find-file-recursively-up | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 2023-08-04T18:11:47Z |
 | uuidify | takes long string and return uuid format | 0 | JavaScript | 2023-08-04T18:03:13Z |
-
 
 # THEME
 
