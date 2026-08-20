@@ -1,7 +1,7 @@
 1c
 
 ```1c
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -9,7 +9,7 @@ echo "Hello, world!" # about this
 4d
 
 ```4d
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -17,7 +17,7 @@ echo "Hello, world!" # about this
 sap-abap
 
 ```sap-abap
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -25,7 +25,7 @@ echo "Hello, world!" # about this
 abap
 
 ```abap
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -33,7 +33,7 @@ echo "Hello, world!" # about this
 abc
 
 ```abc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -41,7 +41,7 @@ echo "Hello, world!" # about this
 abcnotation
 
 ```abcnotation
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -49,7 +49,7 @@ echo "Hello, world!" # about this
 abnf
 
 ```abnf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -57,7 +57,7 @@ echo "Hello, world!" # about this
 accesslog
 
 ```accesslog
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -65,7 +65,7 @@ echo "Hello, world!" # about this
 accesslogs
 
 ```accesslogs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -73,7 +73,7 @@ echo "Hello, world!" # about this
 actionscript
 
 ```actionscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -81,7 +81,7 @@ echo "Hello, world!" # about this
 as
 
 ```as
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -89,7 +89,7 @@ echo "Hello, world!" # about this
 ada
 
 ```ada
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -97,7 +97,7 @@ echo "Hello, world!" # about this
 aiken
 
 ```aiken
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -105,7 +105,7 @@ echo "Hello, world!" # about this
 ak
 
 ```ak
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -113,7 +113,7 @@ echo "Hello, world!" # about this
 ln
 
 ```ln
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -121,7 +121,7 @@ echo "Hello, world!" # about this
 alan
 
 ```alan
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -129,7 +129,7 @@ echo "Hello, world!" # about this
 i
 
 ```i
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -137,7 +137,7 @@ echo "Hello, world!" # about this
 alanif
 
 ```alanif
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -145,7 +145,7 @@ echo "Hello, world!" # about this
 angelscript
 
 ```angelscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -153,7 +153,7 @@ echo "Hello, world!" # about this
 asc
 
 ```asc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -161,7 +161,7 @@ echo "Hello, world!" # about this
 apache
 
 ```apache
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -169,7 +169,7 @@ echo "Hello, world!" # about this
 apacheconf
 
 ```apacheconf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -177,7 +177,7 @@ echo "Hello, world!" # about this
 apex
 
 ```apex
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -185,7 +185,7 @@ echo "Hello, world!" # about this
 applescript
 
 ```applescript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -193,7 +193,7 @@ echo "Hello, world!" # about this
 osascript
 
 ```osascript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -201,7 +201,7 @@ echo "Hello, world!" # about this
 arcade
 
 ```arcade
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -209,7 +209,7 @@ echo "Hello, world!" # about this
 arduino
 
 ```arduino
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -217,7 +217,7 @@ echo "Hello, world!" # about this
 ino
 
 ```ino
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -225,7 +225,7 @@ echo "Hello, world!" # about this
 arduinocppwarduinolibs
 
 ```arduinocppwarduinolibs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -233,7 +233,7 @@ echo "Hello, world!" # about this
 armasm
 
 ```armasm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -241,7 +241,7 @@ echo "Hello, world!" # about this
 arm
 
 ```arm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -249,7 +249,7 @@ echo "Hello, world!" # about this
 armassembler
 
 ```armassembler
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -257,7 +257,7 @@ echo "Hello, world!" # about this
 asciidoc
 
 ```asciidoc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -265,7 +265,7 @@ echo "Hello, world!" # about this
 adoc
 
 ```adoc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -273,7 +273,7 @@ echo "Hello, world!" # about this
 aspectj
 
 ```aspectj
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -281,7 +281,7 @@ echo "Hello, world!" # about this
 autohotkey
 
 ```autohotkey
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -289,7 +289,7 @@ echo "Hello, world!" # about this
 autoit
 
 ```autoit
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -297,7 +297,7 @@ echo "Hello, world!" # about this
 avrasm
 
 ```avrasm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -305,7 +305,7 @@ echo "Hello, world!" # about this
 avrassembler
 
 ```avrassembler
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -313,7 +313,7 @@ echo "Hello, world!" # about this
 awk
 
 ```awk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -321,7 +321,7 @@ echo "Hello, world!" # about this
 mawk
 
 ```mawk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -329,7 +329,7 @@ echo "Hello, world!" # about this
 nawk
 
 ```nawk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -337,7 +337,7 @@ echo "Hello, world!" # about this
 gawk
 
 ```gawk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -345,7 +345,7 @@ echo "Hello, world!" # about this
 ballerina
 
 ```ballerina
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -353,7 +353,7 @@ echo "Hello, world!" # about this
 bal
 
 ```bal
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -361,7 +361,7 @@ echo "Hello, world!" # about this
 bash
 
 ```bash
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -369,7 +369,7 @@ echo "Hello, world!" # about this
 sh
 
 ```sh
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -377,7 +377,7 @@ echo "Hello, world!" # about this
 zsh
 
 ```zsh
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -385,7 +385,7 @@ echo "Hello, world!" # about this
 basic
 
 ```basic
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -393,7 +393,7 @@ echo "Hello, world!" # about this
 bbcode
 
 ```bbcode
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -401,7 +401,7 @@ echo "Hello, world!" # about this
 bicep
 
 ```bicep
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -409,7 +409,7 @@ echo "Hello, world!" # about this
 blade
 
 ```blade
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -417,7 +417,7 @@ echo "Hello, world!" # about this
 bladelaravel
 
 ```bladelaravel
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -425,7 +425,7 @@ echo "Hello, world!" # about this
 bnf
 
 ```bnf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -433,7 +433,7 @@ echo "Hello, world!" # about this
 bqn
 
 ```bqn
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -441,7 +441,7 @@ echo "Hello, world!" # about this
 brainfuck
 
 ```brainfuck
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -449,7 +449,7 @@ echo "Hello, world!" # about this
 bf
 
 ```bf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -457,7 +457,7 @@ echo "Hello, world!" # about this
 c
 
 ```c
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -465,7 +465,7 @@ echo "Hello, world!" # about this
 h
 
 ```h
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -473,7 +473,7 @@ echo "Hello, world!" # about this
 csharp
 
 ```csharp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -481,7 +481,7 @@ echo "Hello, world!" # about this
 cs
 
 ```cs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -489,7 +489,7 @@ echo "Hello, world!" # about this
 cpp
 
 ```cpp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -497,7 +497,7 @@ echo "Hello, world!" # about this
 hpp
 
 ```hpp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -505,7 +505,7 @@ echo "Hello, world!" # about this
 cc
 
 ```cc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -513,7 +513,7 @@ echo "Hello, world!" # about this
 hh
 
 ```hh
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -521,7 +521,7 @@ echo "Hello, world!" # about this
 c++
 
 ```c++
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -529,7 +529,7 @@ echo "Hello, world!" # about this
 h++
 
 ```h++
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -537,7 +537,7 @@ echo "Hello, world!" # about this
 cxx
 
 ```cxx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -545,7 +545,7 @@ echo "Hello, world!" # about this
 hxx
 
 ```hxx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -553,7 +553,7 @@ echo "Hello, world!" # about this
 cal
 
 ```cal
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -561,7 +561,7 @@ echo "Hello, world!" # about this
 c3
 
 ```c3
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -569,7 +569,7 @@ echo "Hello, world!" # about this
 cos
 
 ```cos
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -577,7 +577,7 @@ echo "Hello, world!" # about this
 cls
 
 ```cls
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -585,7 +585,7 @@ echo "Hello, world!" # about this
 cacheobjectscript
 
 ```cacheobjectscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -593,7 +593,7 @@ echo "Hello, world!" # about this
 candid
 
 ```candid
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -601,7 +601,7 @@ echo "Hello, world!" # about this
 did
 
 ```did
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -609,7 +609,7 @@ echo "Hello, world!" # about this
 capnproto
 
 ```capnproto
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -617,7 +617,7 @@ echo "Hello, world!" # about this
 capnp
 
 ```capnp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -625,7 +625,7 @@ echo "Hello, world!" # about this
 chaos
 
 ```chaos
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -633,7 +633,7 @@ echo "Hello, world!" # about this
 kaos
 
 ```kaos
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -641,7 +641,7 @@ echo "Hello, world!" # about this
 chapel
 
 ```chapel
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -649,7 +649,7 @@ echo "Hello, world!" # about this
 chpl
 
 ```chpl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -657,7 +657,7 @@ echo "Hello, world!" # about this
 cisco
 
 ```cisco
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -665,7 +665,7 @@ echo "Hello, world!" # about this
 ciscocli
 
 ```ciscocli
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -673,7 +673,7 @@ echo "Hello, world!" # about this
 clojure
 
 ```clojure
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -681,7 +681,7 @@ echo "Hello, world!" # about this
 clj
 
 ```clj
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -689,7 +689,7 @@ echo "Hello, world!" # about this
 cmake
 
 ```cmake
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -697,7 +697,7 @@ echo "Hello, world!" # about this
 cmake.in
 
 ```cmake.in
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -705,7 +705,7 @@ echo "Hello, world!" # about this
 cobol
 
 ```cobol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -713,7 +713,7 @@ echo "Hello, world!" # about this
 standard-cobol
 
 ```standard-cobol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -721,7 +721,7 @@ echo "Hello, world!" # about this
 codeowners
 
 ```codeowners
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -729,7 +729,7 @@ echo "Hello, world!" # about this
 coffeescript
 
 ```coffeescript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -737,7 +737,7 @@ echo "Hello, world!" # about this
 coffee
 
 ```coffee
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -745,7 +745,7 @@ echo "Hello, world!" # about this
 cson
 
 ```cson
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -753,7 +753,7 @@ echo "Hello, world!" # about this
 iced
 
 ```iced
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -761,7 +761,7 @@ echo "Hello, world!" # about this
 coq
 
 ```coq
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -769,7 +769,7 @@ echo "Hello, world!" # about this
 cpc
 
 ```cpc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -777,7 +777,7 @@ echo "Hello, world!" # about this
 cpcdosc
 
 ```cpcdosc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -785,7 +785,7 @@ echo "Hello, world!" # about this
 crmsh
 
 ```crmsh
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -793,7 +793,7 @@ echo "Hello, world!" # about this
 crm
 
 ```crm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -801,7 +801,7 @@ echo "Hello, world!" # about this
 pcmk
 
 ```pcmk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -809,7 +809,7 @@ echo "Hello, world!" # about this
 crystal
 
 ```crystal
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -817,7 +817,7 @@ echo "Hello, world!" # about this
 cr
 
 ```cr
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -825,7 +825,7 @@ echo "Hello, world!" # about this
 csp
 
 ```csp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -833,7 +833,7 @@ echo "Hello, world!" # about this
 css
 
 ```css
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -841,7 +841,7 @@ echo "Hello, world!" # about this
 curl
 
 ```curl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -849,7 +849,7 @@ echo "Hello, world!" # about this
 cypher
 
 ```cypher
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -857,7 +857,7 @@ echo "Hello, world!" # about this
 cypherneo4j
 
 ```cypherneo4j
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -865,7 +865,7 @@ echo "Hello, world!" # about this
 d
 
 ```d
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -873,7 +873,7 @@ echo "Hello, world!" # about this
 dafny
 
 ```dafny
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -881,7 +881,7 @@ echo "Hello, world!" # about this
 dart
 
 ```dart
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -889,7 +889,7 @@ echo "Hello, world!" # about this
 dpr
 
 ```dpr
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -897,7 +897,7 @@ echo "Hello, world!" # about this
 dfm
 
 ```dfm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -905,7 +905,7 @@ echo "Hello, world!" # about this
 pas
 
 ```pas
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -913,7 +913,7 @@ echo "Hello, world!" # about this
 pascal
 
 ```pascal
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -921,7 +921,7 @@ echo "Hello, world!" # about this
 delphi
 
 ```delphi
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -929,7 +929,7 @@ echo "Hello, world!" # about this
 diff
 
 ```diff
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -937,7 +937,7 @@ echo "Hello, world!" # about this
 patch
 
 ```patch
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -945,7 +945,7 @@ echo "Hello, world!" # about this
 django
 
 ```django
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -953,7 +953,7 @@ echo "Hello, world!" # about this
 jinja
 
 ```jinja
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -961,7 +961,7 @@ echo "Hello, world!" # about this
 dns
 
 ```dns
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -969,7 +969,7 @@ echo "Hello, world!" # about this
 zone
 
 ```zone
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -977,7 +977,7 @@ echo "Hello, world!" # about this
 bind
 
 ```bind
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -985,7 +985,7 @@ echo "Hello, world!" # about this
 dnszonefile
 
 ```dnszonefile
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -993,7 +993,7 @@ echo "Hello, world!" # about this
 dockerfile
 
 ```dockerfile
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1001,7 +1001,7 @@ echo "Hello, world!" # about this
 docker
 
 ```docker
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1009,7 +1009,7 @@ echo "Hello, world!" # about this
 dos
 
 ```dos
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1017,7 +1017,7 @@ echo "Hello, world!" # about this
 bat
 
 ```bat
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1025,7 +1025,7 @@ echo "Hello, world!" # about this
 cmd
 
 ```cmd
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1033,7 +1033,7 @@ echo "Hello, world!" # about this
 dsconfig
 
 ```dsconfig
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1041,7 +1041,7 @@ echo "Hello, world!" # about this
 dts
 
 ```dts
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1049,7 +1049,7 @@ echo "Hello, world!" # about this
 dtsdevicetree
 
 ```dtsdevicetree
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1057,7 +1057,7 @@ echo "Hello, world!" # about this
 dust
 
 ```dust
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1065,7 +1065,7 @@ echo "Hello, world!" # about this
 dst
 
 ```dst
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1073,7 +1073,7 @@ echo "Hello, world!" # about this
 dylan
 
 ```dylan
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1081,7 +1081,7 @@ echo "Hello, world!" # about this
 ebnf
 
 ```ebnf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1089,7 +1089,7 @@ echo "Hello, world!" # about this
 elixir
 
 ```elixir
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1097,7 +1097,7 @@ echo "Hello, world!" # about this
 elm
 
 ```elm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1105,7 +1105,7 @@ echo "Hello, world!" # about this
 erlang
 
 ```erlang
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1113,7 +1113,7 @@ echo "Hello, world!" # about this
 erl
 
 ```erl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1121,7 +1121,7 @@ echo "Hello, world!" # about this
 excel
 
 ```excel
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1129,7 +1129,7 @@ echo "Hello, world!" # about this
 xls
 
 ```xls
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1137,7 +1137,7 @@ echo "Hello, world!" # about this
 xlsx
 
 ```xlsx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1145,7 +1145,7 @@ echo "Hello, world!" # about this
 extempore
 
 ```extempore
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1153,7 +1153,7 @@ echo "Hello, world!" # about this
 xtlang
 
 ```xtlang
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1161,7 +1161,7 @@ echo "Hello, world!" # about this
 xtm
 
 ```xtm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1169,7 +1169,7 @@ echo "Hello, world!" # about this
 fsharp
 
 ```fsharp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1177,7 +1177,7 @@ echo "Hello, world!" # about this
 fs
 
 ```fs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1185,7 +1185,7 @@ echo "Hello, world!" # about this
 fsx
 
 ```fsx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1193,7 +1193,7 @@ echo "Hello, world!" # about this
 fsi
 
 ```fsi
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1201,7 +1201,7 @@ echo "Hello, world!" # about this
 fsscript
 
 ```fsscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1209,7 +1209,7 @@ echo "Hello, world!" # about this
 fix
 
 ```fix
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1217,7 +1217,7 @@ echo "Hello, world!" # about this
 flix
 
 ```flix
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1225,7 +1225,7 @@ echo "Hello, world!" # about this
 fortran
 
 ```fortran
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1233,7 +1233,7 @@ echo "Hello, world!" # about this
 f90
 
 ```f90
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1241,7 +1241,7 @@ echo "Hello, world!" # about this
 f95
 
 ```f95
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1249,7 +1249,7 @@ echo "Hello, world!" # about this
 func
 
 ```func
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1257,7 +1257,7 @@ echo "Hello, world!" # about this
 gcode
 
 ```gcode
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1265,7 +1265,7 @@ echo "Hello, world!" # about this
 nc
 
 ```nc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1273,7 +1273,7 @@ echo "Hello, world!" # about this
 gams
 
 ```gams
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1281,7 +1281,7 @@ echo "Hello, world!" # about this
 gms
 
 ```gms
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1289,7 +1289,7 @@ echo "Hello, world!" # about this
 gauss
 
 ```gauss
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1297,7 +1297,7 @@ echo "Hello, world!" # about this
 gss
 
 ```gss
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1305,7 +1305,7 @@ echo "Hello, world!" # about this
 godot
 
 ```godot
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1313,7 +1313,7 @@ echo "Hello, world!" # about this
 gdscript
 
 ```gdscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1321,7 +1321,7 @@ echo "Hello, world!" # about this
 gherkin
 
 ```gherkin
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1329,7 +1329,7 @@ echo "Hello, world!" # about this
 gleam
 
 ```gleam
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1337,14 +1337,14 @@ echo "Hello, world!" # about this
 hbs
 
 ```hbs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
-echo "Hello, world!" # about this # foo bar com
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json"
+https://example.com/api echo "Hello, world!" # about this # foo bar com
 ```
 
 glimmer
 
 ```glimmer
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1352,7 +1352,7 @@ echo "Hello, world!" # about this
 html.hbs
 
 ```html.hbs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1360,7 +1360,7 @@ echo "Hello, world!" # about this
 html.handlebars
 
 ```html.handlebars
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1368,14 +1368,14 @@ echo "Hello, world!" # about this
 htmlbars
 
 ```htmlbars
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
-echo "Hello, world!" # about this # foo bar com
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json"
+https://example.com/api echo "Hello, world!" # about this # foo bar com
 ```
 
 glimmerandemberjs
 
 ```glimmerandemberjs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1383,7 +1383,7 @@ echo "Hello, world!" # about this
 gn
 
 ```gn
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1391,7 +1391,7 @@ echo "Hello, world!" # about this
 gni
 
 ```gni
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1399,7 +1399,7 @@ echo "Hello, world!" # about this
 gnforninja
 
 ```gnforninja
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1407,7 +1407,7 @@ echo "Hello, world!" # about this
 go
 
 ```go
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1415,7 +1415,7 @@ echo "Hello, world!" # about this
 golang
 
 ```golang
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1423,7 +1423,7 @@ echo "Hello, world!" # about this
 golo
 
 ```golo
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1431,7 +1431,7 @@ echo "Hello, world!" # about this
 gololang
 
 ```gololang
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1439,7 +1439,7 @@ echo "Hello, world!" # about this
 gradle
 
 ```gradle
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1447,7 +1447,7 @@ echo "Hello, world!" # about this
 gf
 
 ```gf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1455,7 +1455,7 @@ echo "Hello, world!" # about this
 grammaticalframework
 
 ```grammaticalframework
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1463,7 +1463,7 @@ echo "Hello, world!" # about this
 graphql
 
 ```graphql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1471,7 +1471,7 @@ echo "Hello, world!" # about this
 gql
 
 ```gql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1479,7 +1479,7 @@ echo "Hello, world!" # about this
 groovy
 
 ```groovy
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1487,7 +1487,7 @@ echo "Hello, world!" # about this
 gsql
 
 ```gsql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1495,7 +1495,7 @@ echo "Hello, world!" # about this
 haml
 
 ```haml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1503,14 +1503,14 @@ echo "Hello, world!" # about this
 handlebars
 
 ```handlebars
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
-echo "Hello, world!" # about this # foo bar com
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json"
+https://example.com/api echo "Hello, world!" # about this # foo bar com
 ```
 
 haskell
 
 ```haskell
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1518,7 +1518,7 @@ echo "Hello, world!" # about this
 hs
 
 ```hs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1526,7 +1526,7 @@ echo "Hello, world!" # about this
 haxe
 
 ```haxe
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1534,7 +1534,7 @@ echo "Hello, world!" # about this
 hx
 
 ```hx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1542,7 +1542,7 @@ echo "Hello, world!" # about this
 hlsl
 
 ```hlsl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1550,7 +1550,7 @@ echo "Hello, world!" # about this
 highlevelshaderlanguage
 
 ```highlevelshaderlanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1558,7 +1558,7 @@ echo "Hello, world!" # about this
 xml
 
 ```xml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1566,21 +1566,21 @@ echo "Hello, world!" # about this
 html
 
 ```html
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
-echo "Hello, world!" # about this # foo bar com
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json"
+https://example.com/api echo "Hello, world!" # about this # foo bar com
 ```
 
 xhtml
 
 ```xhtml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
-echo "Hello, world!" # about this # foo bar com
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json"
+https://example.com/api echo "Hello, world!" # about this # foo bar com
 ```
 
 rss
 
 ```rss
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1588,7 +1588,7 @@ echo "Hello, world!" # about this
 atom
 
 ```atom
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1596,7 +1596,7 @@ echo "Hello, world!" # about this
 xjb
 
 ```xjb
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1604,7 +1604,7 @@ echo "Hello, world!" # about this
 xsd
 
 ```xsd
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1612,7 +1612,7 @@ echo "Hello, world!" # about this
 xsl
 
 ```xsl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1620,7 +1620,7 @@ echo "Hello, world!" # about this
 plist
 
 ```plist
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1628,7 +1628,7 @@ echo "Hello, world!" # about this
 svg
 
 ```svg
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1636,7 +1636,7 @@ echo "Hello, world!" # about this
 http
 
 ```http
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1644,7 +1644,7 @@ echo "Hello, world!" # about this
 https
 
 ```https
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1652,7 +1652,7 @@ echo "Hello, world!" # about this
 hy
 
 ```hy
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1660,7 +1660,7 @@ echo "Hello, world!" # about this
 hylang
 
 ```hylang
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1668,7 +1668,7 @@ echo "Hello, world!" # about this
 inform7
 
 ```inform7
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1676,7 +1676,7 @@ echo "Hello, world!" # about this
 i7
 
 ```i7
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1684,7 +1684,7 @@ echo "Hello, world!" # about this
 ini
 
 ```ini
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1692,7 +1692,7 @@ echo "Hello, world!" # about this
 toml
 
 ```toml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1700,7 +1700,7 @@ echo "Hello, world!" # about this
 iptables
 
 ```iptables
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1708,7 +1708,7 @@ echo "Hello, world!" # about this
 irpf90
 
 ```irpf90
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1716,7 +1716,7 @@ echo "Hello, world!" # about this
 java
 
 ```java
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1724,7 +1724,7 @@ echo "Hello, world!" # about this
 jsp
 
 ```jsp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1732,7 +1732,7 @@ echo "Hello, world!" # about this
 javascript
 
 ```javascript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1740,7 +1740,7 @@ echo "Hello, world!" # about this
 js
 
 ```js
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1748,7 +1748,7 @@ echo "Hello, world!" # about this
 jsx
 
 ```jsx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1756,7 +1756,7 @@ echo "Hello, world!" # about this
 jolie
 
 ```jolie
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1764,7 +1764,7 @@ echo "Hello, world!" # about this
 iol
 
 ```iol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1772,7 +1772,7 @@ echo "Hello, world!" # about this
 ol
 
 ```ol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1780,7 +1780,7 @@ echo "Hello, world!" # about this
 json
 
 ```json
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1788,7 +1788,7 @@ echo "Hello, world!" # about this
 jsonc
 
 ```jsonc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1796,7 +1796,7 @@ echo "Hello, world!" # about this
 json5
 
 ```json5
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1804,7 +1804,7 @@ echo "Hello, world!" # about this
 jsonata
 
 ```jsonata
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1812,7 +1812,7 @@ echo "Hello, world!" # about this
 julia
 
 ```julia
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1820,7 +1820,7 @@ echo "Hello, world!" # about this
 jl
 
 ```jl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1828,7 +1828,7 @@ echo "Hello, world!" # about this
 kotlin
 
 ```kotlin
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1836,7 +1836,7 @@ echo "Hello, world!" # about this
 kt
 
 ```kt
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1844,7 +1844,7 @@ echo "Hello, world!" # about this
 l4
 
 ```l4
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1852,7 +1852,7 @@ echo "Hello, world!" # about this
 legal
 
 ```legal
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1860,7 +1860,7 @@ echo "Hello, world!" # about this
 lang
 
 ```lang
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1868,7 +1868,7 @@ echo "Hello, world!" # about this
 lasso
 
 ```lasso
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1876,7 +1876,7 @@ echo "Hello, world!" # about this
 ls
 
 ```ls
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1884,7 +1884,7 @@ echo "Hello, world!" # about this
 lassoscript
 
 ```lassoscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1892,7 +1892,7 @@ echo "Hello, world!" # about this
 tex
 
 ```tex
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1900,7 +1900,7 @@ echo "Hello, world!" # about this
 latex
 
 ```latex
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1908,7 +1908,7 @@ echo "Hello, world!" # about this
 ldif
 
 ```ldif
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1916,7 +1916,7 @@ echo "Hello, world!" # about this
 leaf
 
 ```leaf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1924,7 +1924,7 @@ echo "Hello, world!" # about this
 lean
 
 ```lean
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1932,7 +1932,7 @@ echo "Hello, world!" # about this
 less
 
 ```less
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1940,7 +1940,7 @@ echo "Hello, world!" # about this
 liquid
 
 ```liquid
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1948,7 +1948,7 @@ echo "Hello, world!" # about this
 lisp
 
 ```lisp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1956,7 +1956,7 @@ echo "Hello, world!" # about this
 livecodeserver
 
 ```livecodeserver
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1964,7 +1964,7 @@ echo "Hello, world!" # about this
 livescript
 
 ```livescript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1972,7 +1972,7 @@ echo "Hello, world!" # about this
 lookml
 
 ```lookml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1980,7 +1980,7 @@ echo "Hello, world!" # about this
 lua
 
 ```lua
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1988,7 +1988,7 @@ echo "Hello, world!" # about this
 pluto
 
 ```pluto
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -1996,7 +1996,7 @@ echo "Hello, world!" # about this
 luau
 
 ```luau
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2004,7 +2004,7 @@ echo "Hello, world!" # about this
 macaulay2
 
 ```macaulay2
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2012,7 +2012,7 @@ echo "Hello, world!" # about this
 magik
 
 ```magik
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2020,7 +2020,7 @@ echo "Hello, world!" # about this
 makefile
 
 ```makefile
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2028,7 +2028,7 @@ echo "Hello, world!" # about this
 mk
 
 ```mk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2036,7 +2036,7 @@ echo "Hello, world!" # about this
 mak
 
 ```mak
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2044,7 +2044,7 @@ echo "Hello, world!" # about this
 make
 
 ```make
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2052,7 +2052,7 @@ echo "Hello, world!" # about this
 markdown
 
 ```markdown
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 
 # foo bar com
@@ -2061,7 +2061,7 @@ echo "Hello, world!" # about this
 md
 
 ```md
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 
 # foo bar com
@@ -2070,7 +2070,7 @@ echo "Hello, world!" # about this
 mkdown
 
 ```mkdown
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 
 # foo bar com
@@ -2079,7 +2079,7 @@ echo "Hello, world!" # about this
 mkd
 
 ```mkd
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 
 # foo bar com
@@ -2088,7 +2088,7 @@ echo "Hello, world!" # about this
 mathematica
 
 ```mathematica
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2096,7 +2096,7 @@ echo "Hello, world!" # about this
 mma
 
 ```mma
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2104,7 +2104,7 @@ echo "Hello, world!" # about this
 wl
 
 ```wl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2112,7 +2112,7 @@ echo "Hello, world!" # about this
 matlab
 
 ```matlab
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2120,7 +2120,7 @@ echo "Hello, world!" # about this
 maxima
 
 ```maxima
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2128,7 +2128,7 @@ echo "Hello, world!" # about this
 mel
 
 ```mel
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2136,7 +2136,7 @@ echo "Hello, world!" # about this
 mayaembeddedlanguage
 
 ```mayaembeddedlanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2144,7 +2144,7 @@ echo "Hello, world!" # about this
 mercury
 
 ```mercury
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2152,7 +2152,7 @@ echo "Hello, world!" # about this
 metapost
 
 ```metapost
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2160,7 +2160,7 @@ echo "Hello, world!" # about this
 mint
 
 ```mint
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2168,7 +2168,7 @@ echo "Hello, world!" # about this
 mips
 
 ```mips
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2176,7 +2176,7 @@ echo "Hello, world!" # about this
 mipsasm
 
 ```mipsasm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2184,7 +2184,7 @@ echo "Hello, world!" # about this
 mipsassembler
 
 ```mipsassembler
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2192,7 +2192,7 @@ echo "Hello, world!" # about this
 mirc
 
 ```mirc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2200,7 +2200,7 @@ echo "Hello, world!" # about this
 mrc
 
 ```mrc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2208,7 +2208,7 @@ echo "Hello, world!" # about this
 mircscriptinglanguage
 
 ```mircscriptinglanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2216,7 +2216,7 @@ echo "Hello, world!" # about this
 mirth
 
 ```mirth
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2224,7 +2224,7 @@ echo "Hello, world!" # about this
 mizar
 
 ```mizar
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2232,7 +2232,7 @@ echo "Hello, world!" # about this
 mkb
 
 ```mkb
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2240,7 +2240,7 @@ echo "Hello, world!" # about this
 mlir
 
 ```mlir
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2248,7 +2248,7 @@ echo "Hello, world!" # about this
 mojolicious
 
 ```mojolicious
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2256,7 +2256,7 @@ echo "Hello, world!" # about this
 monkey
 
 ```monkey
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2264,7 +2264,7 @@ echo "Hello, world!" # about this
 moonscript
 
 ```moonscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2272,7 +2272,7 @@ echo "Hello, world!" # about this
 moon
 
 ```moon
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2280,7 +2280,7 @@ echo "Hello, world!" # about this
 motoko
 
 ```motoko
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2288,7 +2288,7 @@ echo "Hello, world!" # about this
 mo
 
 ```mo
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2296,7 +2296,7 @@ echo "Hello, world!" # about this
 n1ql
 
 ```n1ql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2304,7 +2304,7 @@ echo "Hello, world!" # about this
 never
 
 ```never
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2312,7 +2312,7 @@ echo "Hello, world!" # about this
 nginx
 
 ```nginx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2320,7 +2320,7 @@ echo "Hello, world!" # about this
 nginxconf
 
 ```nginxconf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2328,7 +2328,7 @@ echo "Hello, world!" # about this
 nim
 
 ```nim
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2336,7 +2336,7 @@ echo "Hello, world!" # about this
 nimrod
 
 ```nimrod
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2344,7 +2344,7 @@ echo "Hello, world!" # about this
 nix
 
 ```nix
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2352,7 +2352,7 @@ echo "Hello, world!" # about this
 nsis
 
 ```nsis
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2360,7 +2360,7 @@ echo "Hello, world!" # about this
 oak
 
 ```oak
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2368,7 +2368,7 @@ echo "Hello, world!" # about this
 ocl
 
 ```ocl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2376,7 +2376,7 @@ echo "Hello, world!" # about this
 objectconstraintlanguage
 
 ```objectconstraintlanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2384,7 +2384,7 @@ echo "Hello, world!" # about this
 objectivec
 
 ```objectivec
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2392,7 +2392,7 @@ echo "Hello, world!" # about this
 mm
 
 ```mm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2400,7 +2400,7 @@ echo "Hello, world!" # about this
 objc
 
 ```objc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2408,7 +2408,7 @@ echo "Hello, world!" # about this
 obj-c
 
 ```obj-c
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2416,7 +2416,7 @@ echo "Hello, world!" # about this
 obj-c++
 
 ```obj-c++
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2424,7 +2424,7 @@ echo "Hello, world!" # about this
 objective-c++
 
 ```objective-c++
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2432,7 +2432,7 @@ echo "Hello, world!" # about this
 ocaml
 
 ```ocaml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2440,7 +2440,7 @@ echo "Hello, world!" # about this
 ml
 
 ```ml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2448,7 +2448,7 @@ echo "Hello, world!" # about this
 odin
 
 ```odin
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2456,7 +2456,7 @@ echo "Hello, world!" # about this
 glsl
 
 ```glsl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2464,7 +2464,7 @@ echo "Hello, world!" # about this
 openglshadinglanguage
 
 ```openglshadinglanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2472,7 +2472,7 @@ echo "Hello, world!" # about this
 openscad
 
 ```openscad
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2480,7 +2480,7 @@ echo "Hello, world!" # about this
 scad
 
 ```scad
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2488,7 +2488,7 @@ echo "Hello, world!" # about this
 ruleslanguage
 
 ```ruleslanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2496,7 +2496,7 @@ echo "Hello, world!" # about this
 oracleruleslanguage
 
 ```oracleruleslanguage
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2504,7 +2504,7 @@ echo "Hello, world!" # about this
 oxygene
 
 ```oxygene
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2512,7 +2512,7 @@ echo "Hello, world!" # about this
 papyrus
 
 ```papyrus
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2520,7 +2520,7 @@ echo "Hello, world!" # about this
 psc
 
 ```psc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2528,7 +2528,7 @@ echo "Hello, world!" # about this
 parser3
 
 ```parser3
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2536,7 +2536,7 @@ echo "Hello, world!" # about this
 perl
 
 ```perl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2544,7 +2544,7 @@ echo "Hello, world!" # about this
 pl
 
 ```pl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2552,7 +2552,7 @@ echo "Hello, world!" # about this
 pm
 
 ```pm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2560,7 +2560,7 @@ echo "Hello, world!" # about this
 pf
 
 ```pf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2568,7 +2568,7 @@ echo "Hello, world!" # about this
 pf.conf
 
 ```pf.conf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2576,7 +2576,7 @@ echo "Hello, world!" # about this
 phix
 
 ```phix
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2584,7 +2584,7 @@ echo "Hello, world!" # about this
 php
 
 ```php
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2592,7 +2592,7 @@ echo "Hello, world!" # about this
 pine
 
 ```pine
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2600,7 +2600,7 @@ echo "Hello, world!" # about this
 pinescript
 
 ```pinescript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2608,7 +2608,7 @@ echo "Hello, world!" # about this
 plaintext
 
 ```plaintext
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2616,7 +2616,7 @@ echo "Hello, world!" # about this
 txt
 
 ```txt
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2624,7 +2624,7 @@ echo "Hello, world!" # about this
 text
 
 ```text
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2632,7 +2632,7 @@ echo "Hello, world!" # about this
 pony
 
 ```pony
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2640,7 +2640,7 @@ echo "Hello, world!" # about this
 pgsql
 
 ```pgsql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2648,7 +2648,7 @@ echo "Hello, world!" # about this
 postgres
 
 ```postgres
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2656,7 +2656,7 @@ echo "Hello, world!" # about this
 postgresql
 
 ```postgresql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2664,7 +2664,7 @@ echo "Hello, world!" # about this
 postgresqlplpgsql
 
 ```postgresqlplpgsql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2672,7 +2672,7 @@ echo "Hello, world!" # about this
 poweron
 
 ```poweron
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2680,7 +2680,7 @@ echo "Hello, world!" # about this
 po
 
 ```po
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2688,7 +2688,7 @@ echo "Hello, world!" # about this
 powershell
 
 ```powershell
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2696,7 +2696,7 @@ echo "Hello, world!" # about this
 ps
 
 ```ps
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2704,7 +2704,7 @@ echo "Hello, world!" # about this
 ps1
 
 ```ps1
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2712,7 +2712,7 @@ echo "Hello, world!" # about this
 prisma
 
 ```prisma
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2720,7 +2720,7 @@ echo "Hello, world!" # about this
 processing
 
 ```processing
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2728,7 +2728,7 @@ echo "Hello, world!" # about this
 prolog
 
 ```prolog
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2736,7 +2736,7 @@ echo "Hello, world!" # about this
 properties
 
 ```properties
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2744,7 +2744,7 @@ echo "Hello, world!" # about this
 proto
 
 ```proto
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2752,7 +2752,7 @@ echo "Hello, world!" # about this
 protobuf
 
 ```protobuf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2760,7 +2760,7 @@ echo "Hello, world!" # about this
 protocolbuffers
 
 ```protocolbuffers
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2768,7 +2768,7 @@ echo "Hello, world!" # about this
 puppet
 
 ```puppet
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2776,7 +2776,7 @@ echo "Hello, world!" # about this
 pp
 
 ```pp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2784,7 +2784,7 @@ echo "Hello, world!" # about this
 python
 
 ```python
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2792,7 +2792,7 @@ echo "Hello, world!" # about this
 py
 
 ```py
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2800,7 +2800,7 @@ echo "Hello, world!" # about this
 gyp
 
 ```gyp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2808,7 +2808,7 @@ echo "Hello, world!" # about this
 profile
 
 ```profile
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2816,7 +2816,7 @@ echo "Hello, world!" # about this
 pythonprofilerresults
 
 ```pythonprofilerresults
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2824,7 +2824,7 @@ echo "Hello, world!" # about this
 k
 
 ```k
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2832,7 +2832,7 @@ echo "Hello, world!" # about this
 kdb
 
 ```kdb
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2840,7 +2840,7 @@ echo "Hello, world!" # about this
 q
 
 ```q
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2848,7 +2848,7 @@ echo "Hello, world!" # about this
 qsharp
 
 ```qsharp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2856,7 +2856,7 @@ echo "Hello, world!" # about this
 qml
 
 ```qml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2864,7 +2864,7 @@ echo "Hello, world!" # about this
 r
 
 ```r
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2872,7 +2872,7 @@ echo "Hello, world!" # about this
 raku
 
 ```raku
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2880,7 +2880,7 @@ echo "Hello, world!" # about this
 perl6
 
 ```perl6
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2888,7 +2888,7 @@ echo "Hello, world!" # about this
 p6
 
 ```p6
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2896,7 +2896,7 @@ echo "Hello, world!" # about this
 pm6
 
 ```pm6
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2904,7 +2904,7 @@ echo "Hello, world!" # about this
 rakumod
 
 ```rakumod
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2912,7 +2912,7 @@ echo "Hello, world!" # about this
 pod6
 
 ```pod6
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2920,7 +2920,7 @@ echo "Hello, world!" # about this
 rakudoc
 
 ```rakudoc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2928,7 +2928,7 @@ echo "Hello, world!" # about this
 rakuquoting
 
 ```rakuquoting
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2936,7 +2936,7 @@ echo "Hello, world!" # about this
 rakuregexe
 
 ```rakuregexe
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2944,7 +2944,7 @@ echo "Hello, world!" # about this
 cshtml
 
 ```cshtml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2952,7 +2952,7 @@ echo "Hello, world!" # about this
 razor
 
 ```razor
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2960,7 +2960,7 @@ echo "Hello, world!" # about this
 razor-cshtml
 
 ```razor-cshtml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2968,7 +2968,7 @@ echo "Hello, world!" # about this
 razorcshtml
 
 ```razorcshtml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2976,7 +2976,7 @@ echo "Hello, world!" # about this
 reasonml
 
 ```reasonml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2984,7 +2984,7 @@ echo "Hello, world!" # about this
 re
 
 ```re
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -2992,7 +2992,7 @@ echo "Hello, world!" # about this
 redbol
 
 ```redbol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3000,7 +3000,7 @@ echo "Hello, world!" # about this
 rebol
 
 ```rebol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3008,7 +3008,7 @@ echo "Hello, world!" # about this
 red
 
 ```red
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3016,7 +3016,7 @@ echo "Hello, world!" # about this
 red-system
 
 ```red-system
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3024,7 +3024,7 @@ echo "Hello, world!" # about this
 rebolred
 
 ```rebolred
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3032,7 +3032,7 @@ echo "Hello, world!" # about this
 rib
 
 ```rib
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3040,7 +3040,7 @@ echo "Hello, world!" # about this
 rendermanrib
 
 ```rendermanrib
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3048,7 +3048,7 @@ echo "Hello, world!" # about this
 rsl
 
 ```rsl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3056,7 +3056,7 @@ echo "Hello, world!" # about this
 rendermanrsl
 
 ```rendermanrsl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3064,7 +3064,7 @@ echo "Hello, world!" # about this
 rescript
 
 ```rescript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3072,7 +3072,7 @@ echo "Hello, world!" # about this
 res
 
 ```res
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3080,7 +3080,7 @@ echo "Hello, world!" # about this
 riscv
 
 ```riscv
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3088,7 +3088,7 @@ echo "Hello, world!" # about this
 riscvasm
 
 ```riscvasm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3096,7 +3096,7 @@ echo "Hello, world!" # about this
 riscvassembly
 
 ```riscvassembly
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3104,7 +3104,7 @@ echo "Hello, world!" # about this
 risc
 
 ```risc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3112,7 +3112,7 @@ echo "Hello, world!" # about this
 riscript
 
 ```riscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3120,7 +3120,7 @@ echo "Hello, world!" # about this
 graph
 
 ```graph
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3128,7 +3128,7 @@ echo "Hello, world!" # about this
 instances
 
 ```instances
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3136,7 +3136,7 @@ echo "Hello, world!" # about this
 roboconf
 
 ```roboconf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3144,7 +3144,7 @@ echo "Hello, world!" # about this
 robot
 
 ```robot
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3152,7 +3152,7 @@ echo "Hello, world!" # about this
 rf
 
 ```rf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3160,7 +3160,7 @@ echo "Hello, world!" # about this
 robotframework
 
 ```robotframework
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3168,7 +3168,7 @@ echo "Hello, world!" # about this
 rpm-specfile
 
 ```rpm-specfile
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3176,7 +3176,7 @@ echo "Hello, world!" # about this
 rpm
 
 ```rpm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3184,7 +3184,7 @@ echo "Hello, world!" # about this
 spec
 
 ```spec
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3192,7 +3192,7 @@ echo "Hello, world!" # about this
 rpm-spec
 
 ```rpm-spec
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3200,7 +3200,7 @@ echo "Hello, world!" # about this
 specfile
 
 ```specfile
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3208,7 +3208,7 @@ echo "Hello, world!" # about this
 rpmspecfiles
 
 ```rpmspecfiles
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3216,7 +3216,7 @@ echo "Hello, world!" # about this
 ruby
 
 ```ruby
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3224,7 +3224,7 @@ echo "Hello, world!" # about this
 rb
 
 ```rb
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3232,7 +3232,7 @@ echo "Hello, world!" # about this
 gemspec
 
 ```gemspec
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3240,7 +3240,7 @@ echo "Hello, world!" # about this
 podspec
 
 ```podspec
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3248,7 +3248,7 @@ echo "Hello, world!" # about this
 thor
 
 ```thor
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3256,7 +3256,7 @@ echo "Hello, world!" # about this
 irb
 
 ```irb
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3264,7 +3264,7 @@ echo "Hello, world!" # about this
 rust
 
 ```rust
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3272,7 +3272,7 @@ echo "Hello, world!" # about this
 rs
 
 ```rs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3280,7 +3280,7 @@ echo "Hello, world!" # about this
 rvt
 
 ```rvt
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3288,7 +3288,7 @@ echo "Hello, world!" # about this
 rvt-script
 
 ```rvt-script
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3296,7 +3296,7 @@ echo "Hello, world!" # about this
 rvtscript
 
 ```rvtscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3304,7 +3304,7 @@ echo "Hello, world!" # about this
 sas
 
 ```sas
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3312,7 +3312,7 @@ echo "Hello, world!" # about this
 scala
 
 ```scala
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3320,7 +3320,7 @@ echo "Hello, world!" # about this
 scheme
 
 ```scheme
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3328,7 +3328,7 @@ echo "Hello, world!" # about this
 scilab
 
 ```scilab
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3336,7 +3336,7 @@ echo "Hello, world!" # about this
 sci
 
 ```sci
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3344,7 +3344,7 @@ echo "Hello, world!" # about this
 scss
 
 ```scss
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3352,7 +3352,7 @@ echo "Hello, world!" # about this
 sfz
 
 ```sfz
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3360,7 +3360,7 @@ echo "Hello, world!" # about this
 shexc
 
 ```shexc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3368,7 +3368,7 @@ echo "Hello, world!" # about this
 shapeexpressions
 
 ```shapeexpressions
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3376,7 +3376,7 @@ echo "Hello, world!" # about this
 shell
 
 ```shell
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3384,7 +3384,7 @@ echo "Hello, world!" # about this
 console
 
 ```console
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3392,7 +3392,7 @@ echo "Hello, world!" # about this
 smali
 
 ```smali
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3400,7 +3400,7 @@ echo "Hello, world!" # about this
 smalltalk
 
 ```smalltalk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3408,7 +3408,7 @@ echo "Hello, world!" # about this
 st
 
 ```st
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3416,7 +3416,7 @@ echo "Hello, world!" # about this
 sml
 
 ```sml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3424,7 +3424,7 @@ echo "Hello, world!" # about this
 solidity
 
 ```solidity
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3432,7 +3432,7 @@ echo "Hello, world!" # about this
 sol
 
 ```sol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3440,7 +3440,7 @@ echo "Hello, world!" # about this
 spl
 
 ```spl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3448,7 +3448,7 @@ echo "Hello, world!" # about this
 splunkspl
 
 ```splunkspl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3456,7 +3456,7 @@ echo "Hello, world!" # about this
 sql
 
 ```sql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3464,7 +3464,7 @@ echo "Hello, world!" # about this
 stan
 
 ```stan
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3472,7 +3472,7 @@ echo "Hello, world!" # about this
 stanfuncs
 
 ```stanfuncs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3480,7 +3480,7 @@ echo "Hello, world!" # about this
 stata
 
 ```stata
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3488,7 +3488,7 @@ echo "Hello, world!" # about this
 iecst
 
 ```iecst
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3496,7 +3496,7 @@ echo "Hello, world!" # about this
 scl
 
 ```scl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3504,7 +3504,7 @@ echo "Hello, world!" # about this
 stl
 
 ```stl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3512,7 +3512,7 @@ echo "Hello, world!" # about this
 structured-text
 
 ```structured-text
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3520,7 +3520,7 @@ echo "Hello, world!" # about this
 structuredtext
 
 ```structuredtext
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3528,7 +3528,7 @@ echo "Hello, world!" # about this
 stylus
 
 ```stylus
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3536,7 +3536,7 @@ echo "Hello, world!" # about this
 styl
 
 ```styl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3544,7 +3544,7 @@ echo "Hello, world!" # about this
 subunit
 
 ```subunit
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3552,7 +3552,7 @@ echo "Hello, world!" # about this
 supercollider
 
 ```supercollider
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3560,7 +3560,7 @@ echo "Hello, world!" # about this
 sc
 
 ```sc
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3568,7 +3568,7 @@ echo "Hello, world!" # about this
 svelte
 
 ```svelte
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3576,7 +3576,7 @@ echo "Hello, world!" # about this
 swift
 
 ```swift
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3584,7 +3584,7 @@ echo "Hello, world!" # about this
 tcl
 
 ```tcl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3592,7 +3592,7 @@ echo "Hello, world!" # about this
 tk
 
 ```tk
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3600,7 +3600,7 @@ echo "Hello, world!" # about this
 terraform
 
 ```terraform
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3608,7 +3608,7 @@ echo "Hello, world!" # about this
 tf
 
 ```tf
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3616,7 +3616,7 @@ echo "Hello, world!" # about this
 hcl
 
 ```hcl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3624,7 +3624,7 @@ echo "Hello, world!" # about this
 terraformhcl
 
 ```terraformhcl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3632,7 +3632,7 @@ echo "Hello, world!" # about this
 tap
 
 ```tap
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3640,7 +3640,7 @@ echo "Hello, world!" # about this
 testanythingprotocol
 
 ```testanythingprotocol
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3648,7 +3648,7 @@ echo "Hello, world!" # about this
 thrift
 
 ```thrift
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3656,7 +3656,7 @@ echo "Hello, world!" # about this
 toit
 
 ```toit
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3664,7 +3664,7 @@ echo "Hello, world!" # about this
 tp
 
 ```tp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3672,7 +3672,7 @@ echo "Hello, world!" # about this
 tsql
 
 ```tsql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3680,7 +3680,7 @@ echo "Hello, world!" # about this
 transactsql
 
 ```transactsql
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3688,7 +3688,7 @@ echo "Hello, world!" # about this
 ttcn
 
 ```ttcn
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3696,7 +3696,7 @@ echo "Hello, world!" # about this
 ttcnpp
 
 ```ttcnpp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3704,7 +3704,7 @@ echo "Hello, world!" # about this
 ttcn3
 
 ```ttcn3
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3712,7 +3712,7 @@ echo "Hello, world!" # about this
 twig
 
 ```twig
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3720,7 +3720,7 @@ echo "Hello, world!" # about this
 craftcms
 
 ```craftcms
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3728,7 +3728,7 @@ echo "Hello, world!" # about this
 typescript
 
 ```typescript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3736,7 +3736,7 @@ echo "Hello, world!" # about this
 ts
 
 ```ts
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3744,7 +3744,7 @@ echo "Hello, world!" # about this
 tsx
 
 ```tsx
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3752,7 +3752,7 @@ echo "Hello, world!" # about this
 mts
 
 ```mts
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3760,7 +3760,7 @@ echo "Hello, world!" # about this
 cts
 
 ```cts
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3768,7 +3768,7 @@ echo "Hello, world!" # about this
 unicorn-rails-log
 
 ```unicorn-rails-log
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3776,7 +3776,7 @@ echo "Hello, world!" # about this
 unicornrailslog
 
 ```unicornrailslog
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3784,7 +3784,7 @@ echo "Hello, world!" # about this
 unison
 
 ```unison
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3792,7 +3792,7 @@ echo "Hello, world!" # about this
 u
 
 ```u
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3800,7 +3800,7 @@ echo "Hello, world!" # about this
 vala
 
 ```vala
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3808,7 +3808,7 @@ echo "Hello, world!" # about this
 vbnet
 
 ```vbnet
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3816,7 +3816,7 @@ echo "Hello, world!" # about this
 vb
 
 ```vb
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3824,7 +3824,7 @@ echo "Hello, world!" # about this
 vba
 
 ```vba
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3832,7 +3832,7 @@ echo "Hello, world!" # about this
 vbscript
 
 ```vbscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3840,7 +3840,7 @@ echo "Hello, world!" # about this
 vbs
 
 ```vbs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3848,7 +3848,7 @@ echo "Hello, world!" # about this
 verilog
 
 ```verilog
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3856,7 +3856,7 @@ echo "Hello, world!" # about this
 v
 
 ```v
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3864,7 +3864,7 @@ echo "Hello, world!" # about this
 vhdl
 
 ```vhdl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3872,7 +3872,7 @@ echo "Hello, world!" # about this
 vim
 
 ```vim
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3880,7 +3880,7 @@ echo "Hello, world!" # about this
 vimscript
 
 ```vimscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3888,7 +3888,7 @@ echo "Hello, world!" # about this
 voltscript
 
 ```voltscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3896,7 +3896,7 @@ echo "Hello, world!" # about this
 vss
 
 ```vss
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3904,7 +3904,7 @@ echo "Hello, world!" # about this
 lotusscript
 
 ```lotusscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3912,7 +3912,7 @@ echo "Hello, world!" # about this
 lss
 
 ```lss
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3920,7 +3920,7 @@ echo "Hello, world!" # about this
 wgsl
 
 ```wgsl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3928,7 +3928,7 @@ echo "Hello, world!" # about this
 xsharp
 
 ```xsharp
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3936,7 +3936,7 @@ echo "Hello, world!" # about this
 xs
 
 ```xs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3944,7 +3944,7 @@ echo "Hello, world!" # about this
 prg
 
 ```prg
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3952,7 +3952,7 @@ echo "Hello, world!" # about this
 x
 
 ```x
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3960,7 +3960,7 @@ echo "Hello, world!" # about this
 axapta
 
 ```axapta
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3968,7 +3968,7 @@ echo "Hello, world!" # about this
 x++
 
 ```x++
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3976,7 +3976,7 @@ echo "Hello, world!" # about this
 x86asm
 
 ```x86asm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3984,7 +3984,7 @@ echo "Hello, world!" # about this
 x86assembly
 
 ```x86assembly
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -3992,7 +3992,7 @@ echo "Hello, world!" # about this
 x86asmatt
 
 ```x86asmatt
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4000,7 +4000,7 @@ echo "Hello, world!" # about this
 x86assemblyatt
 
 ```x86assemblyatt
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4008,7 +4008,7 @@ echo "Hello, world!" # about this
 xl
 
 ```xl
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4016,7 +4016,7 @@ echo "Hello, world!" # about this
 tao
 
 ```tao
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4024,7 +4024,7 @@ echo "Hello, world!" # about this
 xquery
 
 ```xquery
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4032,7 +4032,7 @@ echo "Hello, world!" # about this
 xpath
 
 ```xpath
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4040,7 +4040,7 @@ echo "Hello, world!" # about this
 xq
 
 ```xq
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4048,7 +4048,7 @@ echo "Hello, world!" # about this
 xqm
 
 ```xqm
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4056,7 +4056,7 @@ echo "Hello, world!" # about this
 yml
 
 ```yml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4064,7 +4064,7 @@ echo "Hello, world!" # about this
 yaml
 
 ```yaml
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4072,7 +4072,7 @@ echo "Hello, world!" # about this
 zenscript
 
 ```zenscript
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4080,7 +4080,7 @@ echo "Hello, world!" # about this
 zs
 
 ```zs
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4088,7 +4088,7 @@ echo "Hello, world!" # about this
 zephir
 
 ```zephir
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
@@ -4096,7 +4096,7 @@ echo "Hello, world!" # about this
 zep
 
 ```zep
-curl -fsSL --retry-ok 3 -H "Accept: application/json" https://example.com/api
+curl -fsSL --retry-ok-next 3 -H "Accept: application/json" https://example.com/api
 echo "Hello, world!" # about this
 # foo bar com
 ```
